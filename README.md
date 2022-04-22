@@ -29,4 +29,4 @@ The following options can control the weight of additional loss funcitons
 ```bash
 python test.py --dataroot ./datasets/photo2vangogh --model project name --p2v_color_var
 ```
-There are 4 variants of the pretrained model, refer to [checkpoints](checkpoint/)
+There are 4 variants of the pretrained model, refer to [checkpoints](checkpoints/)
